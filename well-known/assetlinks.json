@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.phonkrd_cyber.twa",
+        "sha256_cert_fingerprints": ["25:BB:0F:91:97:8A:CE:10:F1:AF:48:85:25:74:B8:9A:BA:1C:6C:31:1A:4C:27:8D:11:10:08:89:59:4F:87:61"]
+      }
+    }]
